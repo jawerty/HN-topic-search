@@ -1,0 +1,19 @@
+{
+  "name": "hn-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hacker-news-terms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "natural": "^5.2.3",
+    "selenium-webdriver": "^4.3.1",
+    "tf-idf": "^1.0.0",
+    "tfidf": "^0.2.2"
+  }
+}
